@@ -4,7 +4,7 @@ export default function LogIn() {
     <>
       <input placeholder="email"></input>
       <input placeholder="password"></input>
-      <button>ㅗ딩ㄴㅁ</button>
+      <button>Sing In</button>
     </>
   );
 }
