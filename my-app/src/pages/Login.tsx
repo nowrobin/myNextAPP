@@ -2,7 +2,6 @@
 export default function LogIn() {
   return (
     <>
-      <input placeholder="email"></input>
       <input placeholder="password"></input>
       <button>Sing In</button>
       /asd
