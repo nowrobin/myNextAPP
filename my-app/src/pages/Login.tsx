@@ -5,7 +5,6 @@ export default function LogIn() {
       <input placeholder="password"></input>
       <button>Sing In</button>
       /asd
-      <div></div>ㄴㅇㅇㄴㅁㅇㅁㄴㅇㅁㄴㅇ
     </>
   );
 }
